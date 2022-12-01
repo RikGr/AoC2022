@@ -1,4 +1,4 @@
-$data = get-content -path .\adventofcode22\input1.1.txt
+$data = get-content -path .\input1.txt
 $data = [string]$data
 $data = $data.Split("  ")
 
